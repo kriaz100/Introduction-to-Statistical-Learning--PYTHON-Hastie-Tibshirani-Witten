@@ -1,4 +1,5 @@
-# ISLR-python
+# Introduction-to-Statistical-Learning--PYTHON CODE -Hastie-Tibshirani-Witten
+
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
 For **Bayesian data analysis**, take a look at <A href='https://github.com/JWarmenhoven/DBDA-python'>this repository</A>.
